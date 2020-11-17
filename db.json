@@ -1,14 +1,102 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+      "id": "2645754a-395b-57c4-a0a3-5a39c49888b1",
+      "name": "Micah Glover",
+      "mark": 2
+    },
+    {
+      "id": "ad49a36b-fd5f-599c-9598-77aa66dce88c",
+      "name": "Jany Romaguera Sr.",
+      "mark": 7
+    },
+    {
+      "id": "79aacb50-39c6-5690-a13d-74bc78564b17",
+      "name": "Delaney Tromp",
+      "mark": 5
+    },
+    {
+      "id": "d7d9b020-1cf3-546d-9b81-5e6e83190730",
+      "name": "Alexandro Ferry",
+      "mark": 1
+    },
+    {
+      "id": "fec37790-2579-55fc-8231-2b7b8d370419",
+      "name": "Loy Flatley",
+      "mark": 5
+    },
+    {
+      "id": "a8c22ee9-72d1-5cae-931f-c30bb933ee2b",
+      "name": "Naomie Skiles",
+      "mark": 10
+    },
+    {
+      "id": "d90c6328-a5fa-5c16-8471-505f40163600",
+      "name": "Mrs. Maximillia Wiegand",
+      "mark": 9
+    },
+    {
+      "id": "75e5fa19-7a66-55ce-973f-e02a8475e42c",
+      "name": "Orlando Russel",
+      "mark": 4
+    },
+    {
+      "id": "bb669158-45d9-50de-a00f-f955d77c709e",
+      "name": "Trenton DuBuque",
+      "mark": 9
+    },
+    {
+      "id": "6ecd653d-ca35-5347-a32b-2d253c45b17d",
+      "name": "Tommie West PhD",
+      "mark": 2
+    },
+    {
+      "id": "a11d43a3-86bd-5741-bee9-0187251b2871",
+      "name": "Moriah Hahn",
+      "mark": 7
+    },
+    {
+      "id": "e625c8bf-bdbb-5210-9ee9-e13c098f1e8f",
+      "name": "Justina Conroy",
+      "mark": 3
+    },
+    {
+      "id": "3eb199e0-486e-5b1a-8ad6-9fdea80325f9",
+      "name": "Cade Kuhn",
+      "mark": 4
+    },
+    {
+      "id": "1d9fa4c0-fc95-5792-bae2-2d4a90da3445",
+      "name": "Irving Spencer Jr.",
+      "mark": 6
+    },
+    {
+      "id": "21308f36-551a-5ca5-8603-573cb3286b4d",
+      "name": "Liza Erdman",
+      "mark": 7
+    },
+    {
+      "id": "0c4114c2-8a43-57f0-b791-9b9b9ad0aa77",
+      "name": "Mrs. Cruz Pfeffer",
+      "mark": 1
+    },
+    {
+      "id": "ddf38dc4-e656-5bf4-b157-e0e401aa1d39",
+      "name": "Georgianna Zulauf Sr.",
+      "mark": 3
+    },
+    {
+      "id": "d3cf89ba-9b9b-54ac-b5d6-99b02aac8e08",
+      "name": "Etha Hodkiewicz",
+      "mark": 3
+    },
+    {
+      "id": "c204b12b-e4ca-5ec6-b0c6-7bc521c78b47",
+      "name": "Amari Ferry",
+      "mark": 1
+    },
+    {
+      "id": "9aa6297b-60ae-50bb-b438-8d72e1fdfcaa",
+      "name": "Sadye Mann",
+      "mark": 6
+    }
+  ]
